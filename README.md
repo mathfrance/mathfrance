@@ -1,7 +1,6 @@
 ## 👋 Olá, eu sou o Matheus França!
 
 ### Sobre Mim :blush:
-
 Formado em Sistemas de Informação pela UFG. Desenvolvedor .Net na LG Lugar de Gente desde 2019, atuando no projeto eSocial que demanda melhorias legais contínuas. 
 
 Minhas atividades envolvem análise de impactos, definição de soluções, revisão de código de outros membros da equipe, testes unitários e funcionais, além do desenvolvimento de código, aplicando práticas que seguem os princípios SOLID e Clean Code. 
