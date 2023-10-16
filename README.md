@@ -5,7 +5,7 @@ Formado em Sistemas de Informação pela UFG. Desenvolvedor .Net na LG Lugar de 
 
 Minhas atividades envolvem análise de impactos, definição de soluções, revisão de código de outros membros da equipe, testes unitários e funcionais, além do desenvolvimento de código, aplicando práticas que seguem os princípios SOLID e Clean Code. 
 
-Experiência como freelancer em criação e manutenção de sites e aplicativos em Flutter. Minhas características incluem facilidade de aprendizado, visão analítica e comunicação eficaz. Acredito na importância de compartilhar conhecimento e mantenho uma postura proativa e de liderança, visando sempre a evolução conjunta.
+Buscando meu desenvolvimento profissional, participei de projetos paralelos de criação e manutenção de sites e aplicativos em Flutter. Minhas características incluem facilidade de aprendizado, visão analítica e comunicação eficaz. Acredito na importância de compartilhar conhecimento e mantenho uma postura proativa e de liderança, visando sempre a evolução conjunta.
 
 ### Onde me encontrar 👇🏼
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-franca-pinheiro/) 
