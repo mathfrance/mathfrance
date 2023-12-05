@@ -15,6 +15,7 @@ Buscando meu desenvolvimento profissional, participei de projetos paralelos de c
 ### Tecnologias :computer:
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/) 
 [![.net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=flat&logo=rabbitmq&color=%23FFFFFF)](https://www.rabbitmq.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=whit)](https://azure.microsoft.com/pt-br/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
